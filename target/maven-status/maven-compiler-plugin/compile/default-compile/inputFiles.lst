@@ -1,0 +1,12 @@
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\helper\Helper.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\servlets\RegisterServlet.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\dao\CategoryDao.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\helper\FactoryProvider.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\servlets\ProductOperationServlet.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\servlets\LoginServlet.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\servlets\Logout.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\dao\UserDao.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\entities\User.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\dao\ProductDao.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\entities\Category.java
+D:\weblab\ecommerce\src\main\java\com\mycompany\ecommerce\entities\Product.java
